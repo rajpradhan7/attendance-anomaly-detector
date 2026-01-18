@@ -1,0 +1,22 @@
+Attendance Risk Report
+
+Amit: Medium Risk
+Neha: Low Risk
+Rahul: High Risk
+Pooja: Low Risk
+Rohan: High Risk
+Suresh: High Risk
+Ananya: Low Risk
+Kunal: Low Risk
+Priya: Medium Risk
+Vikram: Low Risk
+Shreya: Low Risk
+Nikhil: Low Risk
+Aditi: Low Risk
+Pankaj: High Risk
+Ritu: Low Risk
+Mohit: High Risk
+Sneha: Low Risk
+Arjun: Low Risk
+Kavya: Low Risk
+Deepak: High Risk
